@@ -195,7 +195,6 @@
 // // let statusFilter = document.getElementById('status');
 // // let ageFilter = document.getElementById('age');
 // // let cityFilter = document.getElementById('city');
-// // let userDiv = document.createElement('div');
 
 // // for (let user of usersWithAddress) {
 
@@ -228,10 +227,6 @@
 // //     }
 // //     flagForCityFilter = !flagForCityFilter;
 // // };
-
-// // user.innerHTML = `${usersWithAddress.usersWithStatusFalse}, ${usersWithAddress.usersWithAgeGT30}, ${usersWithAddress.usersWithCityKyiv}`;
-// // };
-// // document.body.append(userDiv);
 
 
 
